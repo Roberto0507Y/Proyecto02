@@ -1,0 +1,62 @@
+asm|ensamblador|Palabra clave que permite insertar código ensamblador dentro de un programa C++.
+auto|automático|Permite que el compilador deduzca el tipo de la variable a partir de su inicialización.
+bool|booleano|Tipo de dato que puede tener los valores `true` o `false`.
+break|romper|Se utiliza para salir de un bucle o una estructura de control `switch`.
+case|caso|Define un valor dentro de una estructura `switch` que se compara con la expresión.
+catch|capturar|Captura las excepciones que han sido lanzadas en un bloque `try`.
+char|carácter|Tipo de dato que almacena un solo carácter.
+class|clase|Define una clase en C++, que es una plantilla para crear objetos.
+const|constante|Indica que el valor de la variable no puede ser modificado después de su inicialización.
+const_cast|cast constante|Operador de conversión de tipo que permite modificar la constante de un puntero o referencia.
+continue|continuar|Se usa para saltar al siguiente ciclo en un bucle.
+default|predeterminado|Define el bloque de código que se ejecuta si ninguna de las opciones en `switch` coincide.
+delete|eliminar|Se usa para liberar memoria dinámica asignada con `new`.
+do|hacer|Inicia un bucle que se ejecuta al menos una vez antes de comprobar la condición.
+double|doble|Tipo de dato que representa números de punto flotante de doble precisión.
+dynamic_cast|cast dinámico|Operador de conversión de tipo que se utiliza para realizar conversiones seguras en tiempo de ejecución.
+else|si no|Define un bloque de código que se ejecuta si la condición de un `if` no se cumple.
+enum|enumeración|Define un conjunto de valores constantes con nombre.
+explicit|explícito|Especifica que un constructor no debe ser utilizado en conversiones implícitas.
+extern|externo|Declara una variable o función que se define en otro archivo.
+false|falso|Valor booleano que representa una condición falsa.
+float|flotante|Tipo de dato que representa números de punto flotante de precisión simple.
+for|para|Bucle que se repite un número determinado de veces.
+friend|amigo|Permite que una función o clase acceda a los miembros privados y protegidos de otra clase.
+goto|ir a|Permite saltar a una etiqueta específica en el código, aunque su uso no es recomendado.
+if|si|Estructura de control que evalúa una condición y ejecuta un bloque si se cumple.
+inline|en línea|Solicita al compilador que inserte el código de la función directamente en el lugar donde se llama.
+int|entero|Tipo de dato que representa números enteros.
+long|largo|Tipo de dato que representa números enteros más grandes que `int`.
+mutable|mutable|Permite que una variable de una clase sea modificada incluso si el objeto es constante.
+namespace|espacio de nombres|Define un ámbito para evitar conflictos de nombres.
+new|nuevo|Asigna memoria dinámica para un objeto o arreglo.
+operator|operador|Define un operador personalizado para una clase.
+private|privado|Especifica que los miembros de una clase no pueden ser accedidos fuera de la clase.
+protected|protegido|Especifica que los miembros de una clase pueden ser accedidos solo por las clases derivadas.
+public|público|Especifica que los miembros de una clase pueden ser accedidos desde cualquier parte del código.
+register|registro|Solicita al compilador que intente almacenar una variable en un registro en lugar de en memoria.
+reinterpret_cast|cast reinterpretado|Operador de conversión de tipo que permite convertir punteros de un tipo a otro de forma más flexible.
+return|retornar|Indica que una función debe devolver un valor y terminar su ejecución.
+short|corto|Tipo de dato que representa números enteros más pequeños que `int`.
+signed|con signo|Especifica que un tipo de dato puede tener valores negativos.
+sizeof|tamaño|Operador que devuelve el tamaño de un objeto o tipo de dato.
+static|estático|Define una variable o función con un tiempo de vida global, pero que sólo es accesible dentro de su archivo.
+static_cast|cast estático|Operador de conversión de tipo seguro en tiempo de compilación.
+struct|estructura|Define una estructura de datos que puede contener múltiples tipos de datos.
+switch|selección|Permite seleccionar entre varias opciones, basadas en el valor de una variable.
+template|plantilla|Permite definir funciones o clases genéricas que trabajan con diferentes tipos de datos.
+this|este|Hace referencia al puntero al objeto actual dentro de una clase.
+throw|lanzar|Se utiliza para lanzar excepciones en C++.
+true|verdadero|Valor booleano que representa una condición verdadera.
+try|intentar|Define un bloque de código donde pueden ocurrir excepciones.
+typedef|tipo definido|Permite crear un alias para un tipo de dato.
+typeid|tipo de dato|Devuelve información sobre el tipo de una variable o expresión en tiempo de ejecución.
+typename|nombre de tipo|Se utiliza para declarar un tipo genérico dentro de una plantilla.
+union|unión|Define una estructura que permite almacenar diferentes tipos de datos en la misma dirección de memoria.
+unsigned|sin signo|Especifica que un tipo de dato no puede tener valores negativos.
+using|usando|Permite importar un espacio de nombres o alias en el ámbito de código.
+virtual|virtual|Permite la redefinición de métodos en clases derivadas.
+void|vacío|Especifica que una función no devuelve ningún valor.
+volatile|volátil|Especifica que una variable puede ser modificada fuera del control del programa, como en una interrupción.
+while|mientras|Bucle que se repite mientras una condición sea verdadera.
+SS¿
